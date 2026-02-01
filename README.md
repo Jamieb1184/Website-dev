@@ -1,9 +1,19 @@
 # Website-dev
 <html>
-<head>Jamies webpage
+<head>"Jamies webpage"
+   <style>
+      body { 
+         background-color: black;
+         color: white;
+         }
+      img.floatleft {
+         float: left;
+         padding: 5px;
+         }
+   </style>
 </head>
    <body>
-    <h1 style="color: white; font-size: 20px;"><img src="https://github.com/Jamieb1184/Website-dev/blob/b9fb29f03f924e6ed1f6d41f3299bbfde9ed67af/IMG_4781.JPEG" alt="Bass player photo" class="floatleft"> Jamie Baker - Photographer</h1>
+    <h1><img src="https://github.com/Jamieb1184/Website-dev/blob/b9fb29f03f924e6ed1f6d41f3299bbfde9ed67af/IMG_4781.JPEG" alt="Bass player photo" class="floatleft"> Jamie Baker - Photographer</h1>
     <p>I'm a photographer who specializes in live music events, with a focus on black and white.</p>
     
   </body>
