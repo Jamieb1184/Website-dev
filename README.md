@@ -7,3 +7,18 @@
     
   </body>
 </html>
+--- Start File CSS ---
+body {
+background-color: black;
+font-family: Verdana;
+font-size: 16px;
+}
+img {
+width: 200px;
+padding: 5px;
+border: 1px solid black;
+margin: 5px;
+}
+img.floatleft {
+float: left;
+}
