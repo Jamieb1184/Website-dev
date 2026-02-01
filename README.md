@@ -5,8 +5,10 @@
    body {
 background-color: black;
 font-family: Verdana;
-font-color: white;
+color: white;
 }
+   h1 { 
+      color: white;
 img {
 width: 200px;
 padding: 5px;
