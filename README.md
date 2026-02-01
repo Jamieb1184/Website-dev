@@ -3,21 +3,17 @@
 <head>Jamies webpage
 <style>
    body {
-background-color: black;
-font-family: Verdana;
-color: white;
-}
-   h1 { 
+      background-color: black;
       color: white;
-img {
-width: 200px;
-padding: 5px;
-border: 1px solid black;
-margin: 5px;
-}
-img.floatleft {
-float: left;
-}
+   }
+   img {
+      width: 200px;
+      padding: 5px;
+      margin: 5px;
+   }
+   img.floatleft {
+      float: left;
+   }
 </style></head>
    <body>
     <h1><img src="https://github.com/Jamieb1184/Website-dev/blob/b9fb29f03f924e6ed1f6d41f3299bbfde9ed67af/IMG_4781.JPEG" alt="Bass player photo" class="floatleft"> Jamie Baker - Photographer</h1>
