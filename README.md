@@ -5,7 +5,7 @@
    body {
 background-color: black;
 font-family: Verdana;
-font-size: 16px;
+font-color: white;
 }
 img {
 width: 200px;
