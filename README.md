@@ -10,6 +10,8 @@
          float: left;
          padding: 5px;
          }
+      img {
+         width: 200px;
    </style>
 </head>
    <body>
