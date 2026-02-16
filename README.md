@@ -7,7 +7,7 @@
 </head>
 <body>
    <header>
-      <h1>Jamie Baker</h1>h1>
+      <h1>Jamie Baker</h1>
       <nav>
          <a href="#portfolio">Portfolio</a>
          <a href="#about">About</a>
