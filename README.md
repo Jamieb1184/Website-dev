@@ -4,6 +4,7 @@
 <head>
    <meta charset="UTF-8">
    <title>Jamie Baker Photography</title>
+   <link rel="stylesheet" href="style.css">
 </head>
 <body>
    <header>
