@@ -84,10 +84,10 @@ footer a:hover {
     <div class="image-row">
 
         <a href="gallery.html" class="image-container">
-    <img src="IMG_4772.jpeg" alt="Gallery"> <div           class="overlay-text">Gallery</div></a> 
+    <img src="IMG_4772.jpeg" alt="Gallery"> <div class="overlay-text">Gallery</div></a> 
 
          <a href="contact.html" class="image-container">
-    <img src=IMG_4800.jpeg" alt="Contact">
+    <img src="IMG_4800.jpeg" alt="Contact">
     <div class="overlay-text">Contact</div>
           </a>
 
