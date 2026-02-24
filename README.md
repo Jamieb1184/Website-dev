@@ -4,7 +4,7 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
-   <title>Jamie Baker Photography</title>
+   Jamie Baker Photography
 </head>
 <body>
    <header>
