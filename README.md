@@ -83,15 +83,15 @@ footer a:hover {
     <h1>Jamie Baker - Music Photographer</h1>
     <div class="image-row">
 
-        <a href="Gallery.html" class="image-container">
+        <a href="gallery.html" class="image-container">
     <img src="IMG_4772.jpeg" alt="Gallery"> <div class="overlay-text">Gallery</div></a> 
 
-         <a href="Contact.html" class="image-container">
+         <a href="contact.html" class="image-container">
     <img src="IMG_4800.jpeg" alt="Contact">
     <div class="overlay-text">Contact</div>
           </a>
 
-        <a href="About.html" class="image-container"> 
+        <a href="about.html" class="image-container"> 
     <img src="IMG_4760.jpeg" alt="About Me">
     <div class="overlay-text">About Me</div>
         </a>
