@@ -87,6 +87,14 @@ h2, h3, h4, h5, h6 {
   opacity: 0.9;
 }
 
+.float-left {
+  float: left;
+  width: 300px;
+  height: auto;
+  marging: 0 25px 20px 0;
+  border-radius: 8px;
+}
+
 footer { 
   margin-top: 40px;
   padding: 20px;
@@ -124,6 +132,11 @@ footer a:hoover {
   .image-container img {
     height: 220px;
   }
+  .float-left {
+    float: none;
+    display: block;
+    margin: 0 auto 20px;
+    width: 80%;
 }
 
 @media (max-width: 600px) {
