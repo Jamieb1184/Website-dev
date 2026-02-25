@@ -92,9 +92,6 @@ h2, h3, h4, h5, h6 {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-}
-
-.about-container p {
   text-align: justify;
   line-height: 1.8;
 }
