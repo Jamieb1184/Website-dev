@@ -90,7 +90,7 @@ h2, h3, h4, h5, h6 {
 
 .about-container { 
   max-width: 800px;
-  margin: 5px auto;
+  margin: 0 auto;
   padding: 20px;
 }
 
@@ -98,7 +98,7 @@ h2, h3, h4, h5, h6 {
   float: left;
   width: 300px;
   height: auto;
-  margin: 0 30px 20px 5px;
+  margin: 5px 35px 25px 0;
   border-radius: 8px;
 }
 
