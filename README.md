@@ -22,7 +22,7 @@
 <footer>
    <p>
       &copy; 2026 Jamie Baker
-      <a href="https://www.instagram.com/j.bakermedia" target="_blank">Instagram</a>
+      <a href="https://www.instagram.com/j.bakermedia" target="_blank">Instagram</a> <a href="https.thunderundergroundpublication.com" target="_blank">Thunder Underground</a>
    </p>
 </footer>
 </body>
