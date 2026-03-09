@@ -161,5 +161,23 @@ footer a:hoover {
   .gallery-grid {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .contact-container {
+    max-width: 600px
+    margin: auto;
+    padding: 20px;
+  }
+
+  form input, form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+
+  input[type="submit"] {
+    width: auto;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
 }
 
